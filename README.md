@@ -15,7 +15,7 @@ Theoretical description, justification and usage examples for the used simulatio
 
 [4] P. Vasin, D. Zloschastiev, D. Cherniy. Algorithm of computing technologies for problems with a free boundary of separation of environments.// VIII International Scientific and Practical Conference "Computer Hydromechanics", IGM NASU, Kyiv, Ukraine, September 27-28, 2022, p. 12.
 
-[5] P. Vasin, D. Zloschastiev, D. Cherniy. Computational technology for problems with free boundaries.// VI International Scientific Conference "Modern problems of mechanics" (To the 70th anniversary of the birth of Vyacheslav Volodymyrovych Meleshko), Kyiv, Ukraine, August 30–31, 2021., p.45.
+[5] P. Vasin, D. Zloschastiev, D. Cherniy. Computational technology for problems with free boundaries.// VI International Scientific Conference "Modern problems of mechanics" (To the 70th anniversary of the birth of Vyacheslav Volodymyrovych Meleshko), Kyiv, Ukraine, August 30–31, 2021, p. 45.
 
 Overview:
 
