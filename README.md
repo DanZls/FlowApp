@@ -9,11 +9,11 @@ Theoretical description, justification and usage examples for the used simulatio
 
 [1] S. Dovgiy, I. Lifanov, D. Cherniy. Method of singular integral equations and computational technologies. - Kyiv, Ukraine: Publishing House "Euston", 2016, 380 p.
 
-[2] S. Dovgiy, P. Vasin, D. Zloschastiev, D. Cherniy. Method of singular integral equations for problems of fluid dynamics in a region with a free boundary.// XXI International Scientific and Practical Conference "Information-communication technologies and sustainable development", ITGIP of the National Academy of Sciences, Kyiv, Ukraine, November 14-16, 2022, p. 37.
+[2] S. Dovgiy, P. Vasin, D. Zloschastiev, D. Cherniy. Method of singular integral equations for problems of fluid dynamics in a region with a free boundary.// XXI International Scientific and Practical Conference "Information-communication technologies and sustainable development", National Academy of Sciences of Ukraine, Kyiv, Ukraine, November 14-16, 2022, p. 37.
 
-[3] P. Vasin, D. Zloschastiev, D. Cherniy. Algorithm for fulfilling the impenetrability condition for the method of discrete features.// VIII International Scientific and Practical Conference "Computer Hydromechanics", National Academy of Sciences of the National Academy of Sciences, Kyiv, Ukraine, September 27-28, 2022, p. 11.
+[3] P. Vasin, D. Zloschastiev, D. Cherniy. Algorithm for fulfilling the impenetrability condition for the method of discrete features.// VIII International Scientific and Practical Conference "Computer Hydromechanics", National Academy of Sciences of Ukraine, Kyiv, Ukraine, September 27-28, 2022, p. 11.
 
-[4] P. Vasin, D. Zloschastiev, D. Cherniy. Algorithm of computing technologies for problems with a free boundary of separation of environments.// VIII International Scientific and Practical Conference "Computer Hydromechanics", IGM NASU, Kyiv, Ukraine, September 27-28, 2022, p. 12.
+[4] P. Vasin, D. Zloschastiev, D. Cherniy. Algorithm of computing technologies for problems with a free boundary of separation of environments.// VIII International Scientific and Practical Conference "Computer Hydromechanics", National Academy of Sciences of Ukraine, Kyiv, Ukraine, September 27-28, 2022, p. 12.
 
 [5] P. Vasin, D. Zloschastiev, D. Cherniy. Computational technology for problems with free boundaries.// VI International Scientific Conference "Modern problems of mechanics" (To the 70th anniversary of the birth of Vyacheslav Volodymyrovych Meleshko), Kyiv, Ukraine, August 30–31, 2021, p. 45.
 
